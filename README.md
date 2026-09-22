@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhideep Bonigala
 
-### Software Engineer · AI/ML · Cloud Enthusiast ·Devops Infrastructure · Full-Stack Developer  
+### Software Engineer · AI/ML · Cloud Enthusiast · Devops Infrastructure · Full-Stack Developer  
 
 I build secure, production-minded applications across **Java**, **MERN**, **AI/ML**, **testing**, and **cloud & Devops infrastructure**.
 
