@@ -103,6 +103,35 @@ A client-facing full-stack application with a responsive interface and business-
 </tr>
 </table>
 
+## Open-source contributions
+
+I contribute to established open-source codebases to learn production engineering practices, collaborate through real review workflows, and work within large systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Rocket.Chat](https://github.com/abhi02max/Rocket.Chat)
+
+Contributor work around a large-scale, security-focused communications platform. The fork is maintained for contribution branches, issue investigation, and upstream pull-request work.
+
+**Exposure:** TypeScript · Node.js · React · Monorepos · Enterprise collaboration
+
+</td>
+<td width="50%" valign="top">
+
+### [Kmesh](https://github.com/abhi02max/kmesh)
+
+Contributor work on a high-performance service-mesh data plane built with eBPF and programmable-kernel technologies. The fork is used for upstream contribution and systems-level learning.
+
+**Exposure:** Go · C · eBPF · Linux networking · Cloud-native infrastructure
+
+</td>
+</tr>
+</table>
+
+> These repositories are upstream forks. Credit for the core projects belongs to their respective maintainers and communities.
+
 ## Java and quality engineering
 
 My [Coforge training repository](https://github.com/abhi02max/Coforge-Training) documents hands-on work across Java full-stack development, software testing, and data engineering.
