@@ -2,9 +2,9 @@
 
 # Hi, I'm Abhideep Bonigala
 
-### Software Engineer · Full-Stack Developer · AI/ML & Cloud Enthusiast
+### Software Engineer · AI/ML · Cloud Enthusiast ·Devops Infrastructure · Full-Stack Developer  
 
-I build secure, production-minded applications across **Java**, **MERN**, **AI/ML**, **testing**, and **cloud infrastructure**.
+I build secure, production-minded applications across **Java**, **MERN**, **AI/ML**, **testing**, and **cloud & Devops infrastructure**.
 
 [![Email](https://img.shields.io/badge/Email-abhideep0204%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhideep0204@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhi02max&style=flat-square&color=2563eb)](https://github.com/abhi02max)
