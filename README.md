@@ -156,8 +156,8 @@ Selected testing work: [BDD Automation](https://github.com/abhi02max/BDDAutomati
 
 ## Certifications
 
-- IBM Full Stack Software Developer
-- AWS Cloud Practitioner learning program
+- Udemy Full Stack Software Developer
+- AWS Cloud Practitioner Certification
 - DevOps specialization
 
 ## Currently building
